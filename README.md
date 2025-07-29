@@ -1,39 +1,54 @@
-# 🐍 Snake, Water, Gun - Python Game
+# Python Mini Projects
 
-Welcome to my first Python project! This is a simple terminal-based game where you can play **Snake, Water, Gun** against the computer. It's similar to Rock, Paper, Scissors but with a fun twist!
+This repository contains simple Python-based mini projects
+Currently it features:
+1. 🧠 Number Guessing Game
+2. 🐍 Snake Water Gun Game
 
----
-
-## 🎮 Game Rules
-
-- Snake 🐍 drinks Water 💧 → Snake wins
-- Water 💧 drowns Gun 🔫 → Water wins
-- Gun 🔫 kills Snake 🐍 → Gun wins
-- Same choices → It's a draw!
+Both are interactive and help beginners understand Python basics like loops, conditionals, dictionaries, user input, and randomness.
 
 ---
 
-## 🧠 How it Works
+## 1️⃣ Number Guessing Game
 
-- The computer randomly picks one option: Snake, Water, or Gun.
-- You enter your choice by typing:
-  - `s` for Snake
-  - `w` for Water
-  - `g` for Gun
-- The winner is then decided based on the rules above.
+### 🎯 Objective
+The computer generates a random number between 1 and 100. Your task is to guess the number. It will guide you with:
+- "Higher number please" if your guess is too low
+- "Lower number please" if your guess is too high
+
+When guessed correctly, it displays the total number of attempts used.
+
+### ✅ Features
+- Random number generation
+- Input-based guessing
+- Feedback on guesses
+- Tracks number of attempts
 
 ---
 
-## 📂 Files
+## 2️⃣ Snake Water Gun Game
 
-- `main.py` – The complete Python script for the game.
+### 🎮 Game Rules
+This is a variation of the classic Rock-Paper-Scissors game:
 
----
+- Snake (`s`) drinks Water (`w`) → Snake wins 🐍 > 💧  
+- Water (`w`) disables Gun (`g`) → Water wins 💧 > 🔫  
+- Gun (`g`) kills Snake (`s`) → Gun wins 🔫 > 🐍  
+- Same choices → Draw
+
+### ✅ Features
+- Player vs Computer
+- Random choice for computer
+- Dictionary-based mapping
+- Outcome logic with clear rules
 
 ## ▶️ How to Run
 
-1. Make sure Python is installed on your machine.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/snake-water-gun.git
-   cd snake-water-gun
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/mini-python-games.git
+cd mini-python-games
+
+🔗 Author
+👤 Nikshay Singh
+
