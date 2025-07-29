@@ -4,8 +4,9 @@ This repository contains simple Python-based mini projects
 Currently it features:
 1. 🧠 Number Guessing Game
 2. 🐍 Snake Water Gun Game
+3. 🌦️ Weather App using Python
 
-Both are interactive and help beginners understand Python basics like loops, conditionals, dictionaries, user input, and randomness.
+All projects are interactive and help beginners understand Python basics like loops, conditionals, dictionaries, user input, and randomness.
 
 ---
 
@@ -41,6 +42,24 @@ This is a variation of the classic Rock-Paper-Scissors game:
 - Random choice for computer
 - Dictionary-based mapping
 - Outcome logic with clear rules
+
+## 3️⃣ Weather App using Python
+
+### 🌤️ Objective
+Get real-time temperature information for any city using a public weather API. The result is **spoken aloud** using the Windows voice engine.
+
+### ✅ Features
+- Takes city name as input  
+- Fetches real-time temperature using WeatherAPI  
+- Speaks out the weather using Windows TTS  
+- Includes a pause and polite closing message  
+
+### 📦 Requirements
+
+Install dependencies:
+
+pip install requests pywin32
+
 
 ## ▶️ How to Run
 
