@@ -49,6 +49,8 @@ Clone the repository:
 git clone https://github.com/yourusername/mini-python-games.git
 cd mini-python-games
 
+---
+
 🔗 Author
 👤 Nikshay Singh
 
