@@ -13,7 +13,7 @@ This is a simple **Weather App** made using Python. It fetches the current weath
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 Make sure you're on Windows OS (since pywin32 uses Windows voice API).
 
@@ -26,7 +26,7 @@ The app will fetch and speak the current temperature in that city.
 
 ---
 
-🔐 API Key Note:
+## 🔐 API Key Note:
 
 This project uses a free WeatherAPI key. If the current key expires or hits the quota:
 
