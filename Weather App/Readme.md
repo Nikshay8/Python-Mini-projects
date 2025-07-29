@@ -1,4 +1,4 @@
-# 🌦️ Weather App using Python
+# Weather App using Python
 
 This is a simple **Weather App** made using Python. It fetches the current weather data for any city using the **WeatherAPI**, and uses the **Windows Text-to-Speech** engine to speak out the weather details.
 
