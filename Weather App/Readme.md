@@ -36,9 +36,6 @@ Get your free API key.
 
 Replace the key in the code:
 
-python
-Copy
-Edit
 api_key = "YOUR_NEW_API_KEY"
 
 ---
