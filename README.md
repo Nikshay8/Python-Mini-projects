@@ -46,7 +46,7 @@ This is a variation of the classic Rock-Paper-Scissors game:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mini-python-games.git
+git clone https://github.com/nikshay8/mini-python-games.git
 cd mini-python-games
 
 
