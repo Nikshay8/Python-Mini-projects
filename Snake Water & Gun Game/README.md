@@ -40,4 +40,4 @@ Each round, the computer randomly selects one of the three, and your choice dete
 
 ### Run the Game
 ```bash
-python snake_water_gun.py
+python main.py
