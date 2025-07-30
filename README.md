@@ -113,7 +113,7 @@ python main.py
 
 ---
 
-Enjoy coding and learning with these beginner-friendly projects! ✨
+
 
 
 
